@@ -3,6 +3,22 @@
     { "id": 1, "name": "abhi", "age": 21 },
     { "id": 2, "name": "manish", "age": 40 },
     { "id": 3, "name": "likith", "age": 20 },
-    { "id": 4, "name": "jithin", "age": 20 } 
+    { "id": 4, "name": "jithin", "age": 20 },
+    { "id": 5, "name": "tommy", "age": 21 },
+    { "id": 6, "name": "blacky", "age": 40 },
+    { "id": 7, "name": "smith", "age": 20 },
+    { "id": 8, "name": "jully", "age": 20 }, 
+    { "id": 9, "name": "ashok", "age": 21 },
+    { "id": 10, "name": "mani", "age": 40 },
+    { "id": 11, "name": "dolly", "age": 20 },
+    { "id": 12, "name": "ajay", "age": 26 },
+    { "id": 13, "name": "abhay", "age": 24},
+    { "id": 14, "name": "akshay", "age": 32 },
+    { "id": 15, "name": "sillon", "age": 22 },
+    { "id": 16, "name": "farhan", "age": 29 }, 
+    { "id": 17, "name": "aarti", "age": 34 },
+    { "id": 18, "name": "golu", "age": 47 },
+    { "id": 19, "name": "vikash", "age": 28 },
+    { "id": 20, "name": "rakesh", "age": 25 }
    ] 
 }
